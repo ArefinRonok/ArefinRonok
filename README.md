@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C++ projects or any open-source initiatives.
 - 📫 You can email me at arefinronok13@gmail.com.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love solving puzzles and playing strategy games!
+- ⚡ Fun fact: I love solving puzzles and playing strategy games
 
 <!---
 ArefinRonok/ArefinRonok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
